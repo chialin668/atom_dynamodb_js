@@ -1,1 +1,2 @@
-# atom_dynamodb_js
+# packages
+- npm install aws-sdk
